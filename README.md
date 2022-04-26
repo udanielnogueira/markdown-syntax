@@ -3,7 +3,7 @@
 
 ## Heading
 
-To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level.
+To create a heading, add number signs (#) in front of a word or phrase.
 
 ~~~~markdown
 # heading 1
@@ -23,7 +23,7 @@ Try to put a blank line before and after a heading.
 
 ## Paragraphs
 
-Use a blank line to separate one or more lines of text.
+Use a blank line to separate one or more lines.
 
 ~~~~markdown
 I really like using Markdown.
@@ -91,7 +91,7 @@ To create a blockquote, add a > in front of a paragraph.
 
 ## Ordered lists
 
-To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one. Indent one or more items to create a nested list.
+Add line items with numbers followed by periods, you can indent them too. The numbers don’t have to be in numerical order, but the list should start with the number one.
 
 ~~~~markdown
 1. First item
@@ -105,7 +105,7 @@ To create an ordered list, add line items with numbers followed by periods. The 
 
 ## Unordered lists
 
-To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
+Add dashes (-), asterisks (*), or plus signs (+) in front of line items. You can indent one or more items too.
 
 ~~~~markdown
 - First item
@@ -129,7 +129,7 @@ This is `a bit of code!`
 
 ## Horizontal Rules
 
-To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
+Use three or more asterisks (***), dashes (---), or underscores (___).
 
 ~~~~markdown
 ***
@@ -147,7 +147,7 @@ ___
 
 ## Links
 
-To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses.
+To create a link, enclose the link text in brackets and then follow it immediately with the URL in parentheses.
 
 ~~~~markdown
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
@@ -157,10 +157,24 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
 
 ### Adding Titles
 
-You can optionally add a title for a link. This will appear as a tooltip when the user hovers over the link. To add a title, enclose it in quotation marks after the URL.
+You can optionally add a title for a link, this will appear when the user hovers over the link.
 
 ~~~~markdown
 My favorite search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 ~~~~
 
 My favorite search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+
+### URL and Email
+
+To quickly turn a URL or email address into a link, enclose it in angle brackets.
+
+~~~~markdown
+<https://www.markdownguide.org>
+
+<fake@example.com>
+~~~~
+
+<https://www.markdownguide.org>
+
+<fake@example.com>
