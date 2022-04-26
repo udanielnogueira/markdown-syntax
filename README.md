@@ -165,6 +165,6 @@ Add an exclamation mark (!), followed by alt text in brackets, and the path or U
 
 ![This is an image](coding.gif "This guy is coding")
 
-## Referenced
+## References
 
 https://www.markdownguide.org/basic-syntax
