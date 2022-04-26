@@ -5,11 +5,17 @@
 
 To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level.
 
-``# heading 1``
+~~~~
+# heading 1
+~~~~
 
-``## heading 2``
+~~~~
+## heading 2
+~~~~
 
-``## heading 3``
+~~~~
+## heading 3
+~~~~
 
 ## Heading best practices
 
@@ -109,6 +115,6 @@ To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in
 * Second item
 + Third item
 
-~~~~python
+~~~~
 git add .; git commit -m 'Update file'; git push
 ~~~~
