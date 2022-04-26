@@ -116,3 +116,13 @@ To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in
 - First item
 * Second item
 + Third item
+
+## Code
+
+To denote a word or phrase as code, enclose it in backticks (`).
+
+~~~~markdown
+This is `python code!`
+~~~~
+
+This is `python code!`
