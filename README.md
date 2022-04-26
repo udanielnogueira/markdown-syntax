@@ -31,7 +31,9 @@ You can add emphasis by making text bold or italic.
 
 ### Bold
 
-``We love **bold text**.``
+~~~~
+We love **bold text**.
+~~~~
 
 We love **bold text**.
 
@@ -51,7 +53,7 @@ We love _italic text_.
 
 ### Bold and italic
 
-``markdown We love ***bold and italic text***.`` 
+``We love ***bold and italic text***.`` 
 
 We love ***bold and italic text***.
 
