@@ -126,3 +126,17 @@ This is `a bit of code!`
 ~~~~
 
 This is `a bit of code!`
+
+## Horizontal Rules
+
+To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
+
+~~~~markdown
+***
+
+---
+
+___
+~~~~
+
+***
