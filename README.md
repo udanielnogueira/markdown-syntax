@@ -3,11 +3,11 @@
 
 ## Heading
 
-- ``# heading 1``
+``# heading 1``
 
-- ``## heading 2``
+``## heading 2``
 
-- ``## heading 3``
+``## heading 3``
 
 ## Heading best practices
 
