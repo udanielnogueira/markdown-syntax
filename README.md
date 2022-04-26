@@ -54,3 +54,9 @@ We love ***bold and italic text***.
 ``We love ___bold and italic text___.`` 
 
 We love ___bold and italic text___.
+
+## Blockquotes
+
+``> Dorothy followed her through many of the beautiful rooms in her castle.``
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
