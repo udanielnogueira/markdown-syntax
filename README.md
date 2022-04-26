@@ -9,3 +9,8 @@
 
 - ``## heading 3``
 
+## Heading best practices
+
+Try to put a blank line before and after a heading.
+
+## 
