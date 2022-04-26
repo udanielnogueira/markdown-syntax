@@ -9,11 +9,11 @@ To create a heading, add number signs (#) in front of a word or phrase. The numb
 # heading 1
 ~~~~
 
-~~~~
+~~~~markdown
 ## heading 2
 ~~~~
 
-~~~~
+~~~~markdown
 ## heading 3
 ~~~~
 
@@ -25,7 +25,7 @@ Try to put a blank line before and after a heading.
 
 Use a blank line to separate one or more lines of text.
 
-~~~~
+~~~~markdown
 I really like using Markdown.
 ~~~~
 
@@ -39,13 +39,13 @@ You can add emphasis by making text bold or italic.
 
 ### Bold
 
-~~~~
+~~~~markdown
 We love **bold text**.
 ~~~~
 
 We love **bold text**.
 
-~~~
+~~~markdown
 We love __bold text__.
 ~~~
 
@@ -53,13 +53,13 @@ We love __bold text__.
 
 ### Italic
 
-~~~~
+~~~~markdown
 We love *italic text*.
 ~~~~
 
 We love *italic text*.
 
-~~~~
+~~~~markdown
 We love _italic text_.
 ~~~~
 
@@ -67,13 +67,13 @@ We love _italic text_.
 
 ### Bold and italic
 
-~~~~
+~~~~markdown
 We love ***bold and italic text***.
 ~~~~
 
 We love ***bold and italic text***.
 
-~~~~
+~~~~markdown
 We love ___bold and italic text___.
 ~~~~
 
@@ -83,7 +83,7 @@ We love ___bold and italic text___.
 
 To create a blockquote, add a > in front of a paragraph.
 
-~~~~
+~~~~markdown
 > Dorothy followed her through many of the beautiful rooms in her castle.
 ~~~~
 
@@ -93,7 +93,7 @@ To create a blockquote, add a > in front of a paragraph.
 
 To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one. Indent one or more items to create a nested list.
 
-~~~~
+~~~~markdown
 1. First item
 1. Second item
 9. Third item
@@ -107,7 +107,7 @@ To create an ordered list, add line items with numbers followed by periods. The 
 
 To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
 
-~~~~
+~~~~markdown
 - First item
 * Second item
 + Third item
@@ -116,4 +116,3 @@ To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in
 - First item
 * Second item
 + Third item
-
