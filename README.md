@@ -37,7 +37,9 @@ We love **bold text**.
 
 We love **bold text**.
 
-``We love __bold text__.`` 
+~~~
+We love __bold text__.
+~~~
 
 We love __bold text__.
 
