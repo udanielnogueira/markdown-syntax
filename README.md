@@ -25,7 +25,9 @@ Try to put a blank line before and after a heading.
 
 Use a blank line to separate one or more lines of text.
 
-``I really like using Markdown.``
+~~~~
+I really like using Markdown.
+~~~~
 
 ## Paragraphs best practices
 
