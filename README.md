@@ -95,4 +95,6 @@ To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in
 * Second item
 + Third item
 
-    git add .; git commit -m 'Update file'; git push
+~~~~markdown
+git add .; git commit -m 'Update file'; git push
+~~~~
