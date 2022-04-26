@@ -154,3 +154,9 @@ To quickly turn a URL or email address into a link, enclose it in angle brackets
 <https://www.markdownguide.org>
 
 <fake@example.com>
+
+## Images
+
+Add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title in quotation marks after the path or URL.
+
+![This is an image](coding.gif "This guy is coding")
