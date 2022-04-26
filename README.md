@@ -149,7 +149,7 @@ ___
 
 To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses.
 
-~~~~~markdown
+~~~~markdown
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 ~~~~
 
@@ -164,4 +164,3 @@ My favorite search engine [Duck Duck Go](https://duckduckgo.com "The best search
 ~~~~
 
 My favorite search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
-
