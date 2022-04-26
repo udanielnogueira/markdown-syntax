@@ -3,6 +3,8 @@
 
 ## Heading
 
+To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level.
+
 ``# heading 1``
 
 ``## heading 2``
@@ -24,6 +26,8 @@ Use a blank line to separate one or more lines of text.
 Unless the paragraph is in a list, don't put tabs or spaces in front of your paragraphs.
 
 ## Emphasis
+
+You can add emphasis by making text bold or italic.
 
 ### Bold
 
@@ -57,13 +61,15 @@ We love ___bold and italic text___.
 
 ## Blockquotes
 
+To create a blockquote, add a > in front of a paragraph.
+
 ``> Dorothy followed her through many of the beautiful rooms in her castle.``
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
 ## Ordered lists
 
-To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
+To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one. Indent one or more items to create a nested list.
 
 ````
 1. First item
@@ -77,7 +83,7 @@ To create an ordered list, add line items with numbers followed by periods. The 
 
 ## Unordered lists
 
-To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items.
+To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
 
 ````
 - First item
@@ -88,3 +94,5 @@ To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in
 - First item
 * Second item
 + Third item
+
+    git add .; git commit -m 'Update file'; git push
