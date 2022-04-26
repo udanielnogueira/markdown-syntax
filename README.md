@@ -45,21 +45,29 @@ We love __bold text__.
 
 ### Italic
 
-``We love *italic text*.`` 
+~~~~
+We love *italic text*.
+~~~~
 
 We love *italic text*.
 
-``We love _italic text_.`` 
+~~~~
+We love _italic text_.
+~~~~
 
 We love _italic text_.
 
 ### Bold and italic
 
-``We love ***bold and italic text***.`` 
+~~~~
+We love ***bold and italic text***.
+~~~~
 
 We love ***bold and italic text***.
 
-``We love ___bold and italic text___.`` 
+~~~~
+We love ___bold and italic text___.
+~~~~
 
 We love ___bold and italic text___.
 
@@ -67,7 +75,9 @@ We love ___bold and italic text___.
 
 To create a blockquote, add a > in front of a paragraph.
 
-``> Dorothy followed her through many of the beautiful rooms in her castle.``
+~~~~
+> Dorothy followed her through many of the beautiful rooms in her castle.
+~~~~
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
@@ -75,11 +85,11 @@ To create a blockquote, add a > in front of a paragraph.
 
 To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one. Indent one or more items to create a nested list.
 
-````
+~~~~
 1. First item
 1. Second item
 9. Third item
-````
+~~~~
 
 1. First item
 1. Second item
@@ -89,16 +99,16 @@ To create an ordered list, add line items with numbers followed by periods. The 
 
 To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
 
-````
+~~~~
 - First item
 * Second item
 + Third item
-````
+~~~~
 
 - First item
 * Second item
 + Third item
 
-~~~~markdown
+~~~~python
 git add .; git commit -m 'Update file'; git push
 ~~~~
