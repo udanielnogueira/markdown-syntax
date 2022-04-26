@@ -60,3 +60,31 @@ We love ___bold and italic text___.
 ``> Dorothy followed her through many of the beautiful rooms in her castle.``
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
+
+## Ordered lists
+
+To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
+
+````
+1. First item
+1. Second item
+9. Third item
+````
+
+1. First item
+1. Second item
+9. Third item
+
+## Unordered lists
+
+To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items.
+
+````
+- First item
+* Second item
++ Third item
+````
+
+- First item
+* Second item
++ Third item
