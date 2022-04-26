@@ -140,3 +140,28 @@ ___
 ~~~~
 
 ***
+
+---
+
+___
+
+## Links
+
+To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses.
+
+~~~~~markdown
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+~~~~
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
+
+### Adding Titles
+
+You can optionally add a title for a link. This will appear as a tooltip when the user hovers over the link. To add a title, enclose it in quotation marks after the URL.
+
+~~~~markdown
+My favorite search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+~~~~
+
+My favorite search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+
