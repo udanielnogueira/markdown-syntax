@@ -51,7 +51,7 @@ We love _italic text_.
 
 ### Bold and italic
 
-``We love ***bold and italic text***.`` 
+``markdown We love ***bold and italic text***.`` 
 
 We love ***bold and italic text***.
 
