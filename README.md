@@ -1,6 +1,6 @@
 # MarkdownSyntax
 
-💙 Markdown basic syntax.
+Markdown basic syntax.
 
 ## Heading
 
