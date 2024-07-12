@@ -1,4 +1,4 @@
-# MarkdownSyntax
+# Markdown Syntax
 
 Markdown basic syntax.
 
