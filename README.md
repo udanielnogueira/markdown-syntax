@@ -1,4 +1,4 @@
-# markdown-syntax
+# Markdown Syntax
 
 Markdown basic syntax.
 
@@ -6,17 +6,17 @@ Markdown basic syntax.
 
 To create a heading, add number signs (#) in front of a word or phrase.
 
-~~~~markdown
+```markdown
 # heading 1
-~~~~
+```
 
-~~~~markdown
+```markdown
 ## heading 2
-~~~~
+```
 
-~~~~markdown
+```markdown
 ## heading 3
-~~~~
+```
 
 ## Heading best practices
 
@@ -26,9 +26,9 @@ Try to put a blank line before and after a heading.
 
 Use a blank line to separate one or more lines.
 
-~~~~markdown
+```markdown
 I really like using Markdown.
-~~~~
+```
 
 ## Paragraphs best practices
 
@@ -40,89 +40,90 @@ You can add emphasis by making text bold or italic.
 
 ### Bold
 
-~~~~markdown
+```markdown
 We love **bold text**.
-~~~~
+```
 
-~~~markdown
-We love __bold text__.
-~~~
+```markdown
+We love **bold text**.
+```
 
 ### Italic
 
-~~~~markdown
-We love *italic text*.
-~~~~
-
-~~~~markdown
+```markdown
 We love _italic text_.
-~~~~
+```
+
+```markdown
+We love _italic text_.
+```
 
 ### Bold and italic
 
-~~~~markdown
-We love ***bold and italic text***.
-~~~~
+```markdown
+We love **_bold and italic text_**.
+```
 
-~~~~markdown
-We love ___bold and italic text___.
-~~~~
+```markdown
+We love **_bold and italic text_**.
+```
 
 ## Blockquotes
 
 To create a blockquote, add a > in front of a paragraph.
 
-~~~~markdown
+```markdown
 > Dorothy followed her through many of the beautiful rooms in her castle.
-~~~~
+```
 
 ## Ordered lists
 
 Add line items with numbers followed by periods, you can indent them too. The numbers don’t have to be in numerical order, but the list should start with the number one.
 
-~~~~markdown
+```markdown
 1. First item
 1. Second item
-9. Third item
-~~~~
+1. Third item
+```
 
 ## Unordered lists
 
-Add dashes (-), asterisks (*), or plus signs (+) in front of line items. You can indent one or more items too.
+Add dashes (-), asterisks (\*), or plus signs (+) in front of line items. You can indent one or more items too.
 
-~~~~markdown
+```markdown
 - First item
+
 * Second item
-+ Third item
-~~~~
+
+- Third item
+```
 
 ## Code
 
 To denote a word or phrase as code, enclose it in backticks (`).
 
-~~~~markdown
+```markdown
 This is `a bit of code!`
-~~~~
+```
 
 ## Horizontal rules
 
-Use three or more asterisks (***), dashes (---), or underscores (___).
+Use three or more asterisks (\*\*\*), dashes (---), or underscores (\_\_\_).
 
-~~~~markdown
-***
-
+```markdown
+---
 ---
 
-___
-~~~~
+---
+```
 
 ## Links
 
 To create a link, enclose the link text in brackets and then follow it immediately with the URL in parentheses.
 
-~~~~markdown
+```markdown
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-~~~~
+```
 
 **Output:**
 
@@ -132,9 +133,9 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
 
 You can optionally add a title for a link, this will appear when the user hovers over the link.
 
-~~~~markdown
+```markdown
 My favorite search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
-~~~~
+```
 
 **Output:**
 
@@ -144,11 +145,11 @@ My favorite search engine [Duck Duck Go](https://duckduckgo.com "The best search
 
 To quickly turn a URL or email address into a link, enclose it in angle brackets.
 
-~~~~markdown
+```markdown
 <https://www.markdownguide.org>
 
 <fake@example.com>
-~~~~
+```
 
 **Output:**
 
@@ -160,9 +161,9 @@ To quickly turn a URL or email address into a link, enclose it in angle brackets
 
 Add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title in quotation marks after the path or URL.
 
-~~~~markdown
+```markdown
 ![This is an image](man-coding.gif "This guy is coding")
-~~~~
+```
 
 ![This is an image](man-coding.gif "This guy is coding")
 
